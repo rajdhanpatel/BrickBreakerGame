@@ -9,5 +9,5 @@
 # Rules
 1. It gives 5 point to break every single brick.
 2. If you are able to break all brick then you win.
-3. If the boll touches the panal bottom boundry you loss the game.
-4. You will have to move the paddal left and right using arrow key so that boll could not touch the bottom of panal. 
+3. If the ball touches the panal bottom boundry you loss the game.
+4. You will have to move the paddal left and right using arrow key so that ball could not touch the bottom of panal. 
