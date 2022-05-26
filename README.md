@@ -1,4 +1,6 @@
 # BrickBreakerGame
+Language : Java
+Its 2D game developed using awt, swing and there is conncept of OOPs
 
 # Controls
 1. Left arrow : moves the paddal which is in bottom of panal left side
