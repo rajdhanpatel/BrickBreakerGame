@@ -6,7 +6,7 @@
 3. Enter key : to restart the game
 
 
-#Rules
+# Rules
 1. It gives 5 point to break every single brick.
 2. If you are able to break all brick then you win.
 3. If the boll touches the panal bottom boundry you loss the game.
