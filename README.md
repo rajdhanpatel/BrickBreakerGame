@@ -1,6 +1,7 @@
 # BrickBreakerGame
 1. Language : Java
 2. It's 2D game developed using awt, swing and there is conncept of OOPs.
+### Demo - https://drive.google.com/file/d/1SjrGTxkBpS6CxNADwsWgBAbPWBNZst0L/view?usp=sharing
 # image
 ![image](https://user-images.githubusercontent.com/98572450/170491505-61424061-fa50-4928-a2cc-423e5d417795.png)
 
