@@ -1,5 +1,5 @@
 # BrickBreakerGame
-1. Concept of Game : You will have to break the brick using ball and on every successufull collids of the ball to the brick you will get 10 point.
+1. Concept of Game : You will have to break the brick using ball and on every successufull collides of the ball to the brick you will get 10 point.
 2. Language : Java
 3. It's 2D game developed using awt, swing and there is conncept of OOPs.
 
